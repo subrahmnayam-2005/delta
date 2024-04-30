@@ -1,2 +1,2 @@
 # delta
-git and github
+git and github.
